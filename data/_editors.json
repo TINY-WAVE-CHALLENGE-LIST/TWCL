@@ -2,12 +2,12 @@
     {
         "role": "owner",
         "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@MrGummelnase"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "owner",
+        "name": "List Owner",
+        "link": "https://www.youtube.com/@DuckInTheUSA"
     },
     {
         "role": "helper",
