@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/Ktbd1LIgrz0",
     "percentToQualify": "100",
     "records": [
+        {
+             "user": "blightedcoconut",
+            "link": "https://cdn.discordapp.com/attachments/1413628930065301616/1413885421506793645/bandicam_2025-09-06_17-54-57-246.mp4?ex=68bd8ee9&is=68bc3d69&hm=dff93823d5a8864c8a33f8c89d009ea1afd6be0902d89e900e0734bd9f90898a&",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
