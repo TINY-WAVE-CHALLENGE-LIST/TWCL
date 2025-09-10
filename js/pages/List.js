@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">version</div>
-                            <p>{{ level.version || '´2.2' }}</p>
+                            <p>{{ level.version || '2.2' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
