@@ -104,6 +104,9 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
+                        You can copy one level on the list
+                    </p>
+                    <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
