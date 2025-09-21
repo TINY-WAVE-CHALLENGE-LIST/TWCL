@@ -7,5 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=SnmTda_j4v8",
     "percentToQualify": "100",
     "records": [
+        {
+        "user": "MikeyGD",
+            "link": "https://youtube.com/shorts/EHLdRdJ4dD4?si=26EsXFToIKWPSaf1",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
