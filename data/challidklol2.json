@@ -23,7 +23,14 @@
             "user": "Nuridint3b",
             "link": "https://cdn.discordapp.com/attachments/1413628930065301616/1424824820465532938/RPReplay_Final1759775013.mov?ex=68e55b05&is=68e40985&hm=966c380a2969994225c6958a5dd96ba3fa36109ef0f47ffeaf4816df06acdce2&",
             "percent": 100,
-            "hz": 60
-            }
+            "hz": "60",
+            "mobile": "true"
+            },
+        {
+            "user": "DuckInTheUSA",
+            "link": "https://www.youtube.com/watch?v=Twkfm-aXSZ4",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
