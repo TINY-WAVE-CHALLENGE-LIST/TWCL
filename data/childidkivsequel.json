@@ -12,6 +12,13 @@
             "link": "https://youtu.be/xk6fGS4AxYc",
             "hz": "200",
             "percent": 100
+        },
+        {
+            "user": "Nuridint3b",
+            "link": "https://youtu.be/BFLwcKgtm6s",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
