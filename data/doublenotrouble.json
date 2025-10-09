@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/scY9hz1XtRQ",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "DuckInTheUSA",
+            "link": "https://youtu.be/a6vSTQ04krw?si=SdHyI61Y-IXkoKqW",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
