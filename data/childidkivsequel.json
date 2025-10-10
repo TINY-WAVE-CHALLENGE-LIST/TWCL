@@ -19,6 +19,12 @@
             "hz": "60",
             "percent": 100,
             "mobile": "true"
+        },
+         {
+            "user": "DuckInTheUSA",
+            "link": "https://youtu.be/5JsYlZaQffc",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
