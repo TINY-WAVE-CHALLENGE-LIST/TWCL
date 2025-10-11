@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/DWJyLbbINgk",
     "percentToQualify": "100",
     "records": [
+         {
+            "user": "tFluffy",
+            "link": "https://cdn.discordapp.com/attachments/1413628930065301616/1426328169509552188/shape_shifter.mp4?ex=68eb7bdf&is=68ea2a5f&hm=1ff8e6126fb00c835f9d2584460bf1273cd49ca92c5f61a4e15de5bed52db968&",
+            "percent": 100,
+            "hz": 240
+             }
     ]
 }
