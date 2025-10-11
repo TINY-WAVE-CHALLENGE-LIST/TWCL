@@ -19,6 +19,13 @@
             "link": "https://www.youtube.com/watch?v=-w9_rS_UjO4",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "GroupNil",
+            "link": "https://cdn.discordapp.com/attachments/1413628930065301616/1426286956245160159/2025-10-10_21-14-18.mp4?ex=68eb557d&is=68ea03fd&hm=8a67c6a270ac886b9febdd9c591945640057cdd774a83043a9128382bf4046ac&",
+            "percent": 100,
+            "hz": 180
+             }
+        
     ]
 }
