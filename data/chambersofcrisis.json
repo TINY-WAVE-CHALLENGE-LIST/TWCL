@@ -18,6 +18,13 @@
             "link": "https://www.youtube.com/watch?v=5JsYlZaQffc",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "Nuridint3b",
+            "link": "https://youtu.be/LkjYQY9QAiw?si=p2CgD0ye-lEhub1z",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
