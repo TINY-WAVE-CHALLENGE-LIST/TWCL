@@ -19,6 +19,12 @@
             "hz": "60",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+             "user": "pixel",
+            "link": "https://cdn.discordapp.com/attachments/1413628930065301616/1429437787979124756/8mb.video-Zmp-PA261iKZ.mp4?ex=68f6232e&is=68f4d1ae&hm=2e01d3ee5405dd5fa451462af5badf02615cd4369d8341ca714483c90556826b&",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
