@@ -25,6 +25,12 @@
             "hz": "60",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+             "user": "blightedcoconut",
+            "link": "https://cdn.discordapp.com/attachments/1411283855352004649/1429924549159424000/bandicam_2025-10-21_00-09-24-032.mp4?ex=68f7e883&is=68f69703&hm=bd9aed206620fda58f1ca8451352aa6bb9d646a99327dcc599d1c95677f0898d&",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
