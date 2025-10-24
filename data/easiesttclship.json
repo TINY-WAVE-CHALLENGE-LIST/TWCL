@@ -8,5 +8,12 @@
     "fps": "60",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Nuridint3b",
+            "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1430648635904888990",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
+        }
     ]
 }
