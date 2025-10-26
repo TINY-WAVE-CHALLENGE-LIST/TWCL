@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=d0mlnnUsWFs",
             "hz": "240",
             "percent": 100
+        },
+        {
+             "user": "finni1505",
+            "link": "https://youtu.be/QJM7XqPncDw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
