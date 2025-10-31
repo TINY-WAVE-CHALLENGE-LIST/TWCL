@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "60",
     "records": [
+        {
+            "user": "tFluffy",
+            "link": "https://cdn.discordapp.com/attachments/1413628930065301616/1432562020443619501/sdrfthgdf.mp4?ex=69057559&is=690423d9&hm=be29d22c07b926de5bf6fd96cc013cda5d19c1157834713dc172efad97556f72&",
+            "hz": "60",
+            "percent": 100
+        }
     ]
 }
