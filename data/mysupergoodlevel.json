@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=d0mlnnUsWFs",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "GroupNil",
+            "link": "https://youtu.be/7kqaG_83uBQ",
+            "hz": "180",
+            "percent": 100
         }
     ]
 }
