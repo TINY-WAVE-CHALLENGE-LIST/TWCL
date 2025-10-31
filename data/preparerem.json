@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=HJCdmz3uF3Y",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "Zeno Sins",
+            "link": "https://www.youtube.com/watch?v=OwghvCmH-tw",
+            "percent": 100,
+            "hz": 120
+            }
     ]
 }
