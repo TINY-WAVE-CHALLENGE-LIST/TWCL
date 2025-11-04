@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/-EHwtS28OHU",
     "percentToQualify": "100",
     "records": [
-       ]
+        {
+            "user": "GroupNil",
+            "link": "https://youtu.be/lVtXe9j66R8",
+            "hz": "180",
+            "percent": 100
+        }
+    ]
 }
