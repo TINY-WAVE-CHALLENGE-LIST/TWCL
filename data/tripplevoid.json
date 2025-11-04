@@ -7,5 +7,17 @@
     "verification": "https://www.youtube.com/watch?v=XuE30EQqG18",
     "percentToQualify": "100",
     "records": [
-]
+        {
+            "user": "FJKR",
+            "link": "https://medal.tv/ru/games/geometry-dash/clips/lqTCQ5daaaS8GFs_f?invite=cr-MSx0d0gsNDM2Nzg5MDc5&v=33",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "blightedcoconut",
+            "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1434900070876315721",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
 }
