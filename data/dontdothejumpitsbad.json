@@ -37,6 +37,13 @@
             "link": "https://www.youtube.com/watch?v=d0mlnnUsWFs",
             "hz": "60",
             "percent": 100
+        },
+        {
+            "user": "Zenos Sins",
+            "link": "https://www.youtube.com/watch?v=oWm8MDpKeZg",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
