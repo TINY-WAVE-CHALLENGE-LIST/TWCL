@@ -5,8 +5,13 @@
     "creators": [],
     "verifier": "GroupNil",
     "verification": "https://youtu.be/htMxru45nm4",
-    "fps": "60",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "blightedcoconut",
+            "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1437449190308577450",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
