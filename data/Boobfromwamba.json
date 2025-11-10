@@ -8,12 +8,5 @@
     "percentToQualify": "100",
     "fps": "180",
     "records": [
-        {
-            "user": "Zenos Sins",
-            "link": "https://www.youtube.com/watch?v=oWm8MDpKeZg",
-            "hz": "120",
-            "percent": 100,
-            "mobile": "true"
-        }
     ]
 }
