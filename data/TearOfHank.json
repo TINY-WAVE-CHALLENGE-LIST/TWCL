@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/pzLHHq7lMoU",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Zenos Sins",
+            "link": "https://youtu.be/Ura9yHE_8ls?si=kCaKxU9N3ZseO5_0",
+            "hz": "CBF",
+            "percent": 100,
+            "mobile": "true"
+        }
     ]
 }
