@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/zwHXTOvotQM",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "blightedcoconut",
+            "link": "https://youtu.be/08IjxjpFD5s",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
