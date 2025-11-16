@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/lPeCMgPWrWE?si=ogGGqZp6CrTVGygh",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "aerial",
+            "link": "https://youtu.be/V3CR1WcU_9s?si=dFpyDuwpXr6WzLwK",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
+        }
     ]
 }
