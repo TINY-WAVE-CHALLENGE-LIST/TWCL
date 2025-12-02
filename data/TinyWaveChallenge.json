@@ -55,6 +55,12 @@
             "link": "https://youtu.be/spWrk9v1iow",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "Megatron",
+            "link": "https://www.youtube.com/watch?v=SNbYLaV1g9I",
+            "hz": "360",
+            "percent": 100
         }
     ]
 }
