@@ -7,5 +7,17 @@
     "verification": "https://youtu.be/YIuBrnpyk98",
     "percentToQualify": "100",
     "records": [
+                {
+            "user": "zis76",
+            "link": "https://youtu.be/Awh0DNdbNOo/",
+            "hz": "240",
+            "percent": 100
+        },
+                        {
+            "user": "Megatron",
+            "link": "https://www.youtube.com/watch?v=BKA7o49bjco",
+            "hz": "240",
+            "percent": 100
+                        }      
     ]
 }
