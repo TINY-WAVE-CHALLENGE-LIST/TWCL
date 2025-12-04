@@ -35,7 +35,13 @@
         {
             "user": "Megatron",
             "link": "https://www.youtube.com/watch?v=dwx-NtlLDlY",
-            "hz": "360",
+            "hz": "120",
+            "percent": 100
+        },
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/wobCRDl2rHw?si=KP9X9Qs2e6fJNdtr",
+            "hz": "120",
             "percent": 100
         }
     ]
