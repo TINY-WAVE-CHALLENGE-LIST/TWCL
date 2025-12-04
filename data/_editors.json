@@ -15,9 +15,24 @@
         "link": "https://www.youtube.com/@pixelfactorial"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "helper",
+        "name": "Sadisyourlife",
+        "link": "https://www.youtube.com/@justaguy8255"
+    },
+    {
+        "role": "helper",
+        "name": "FoldedZero",
+        "link": "https://www.youtube.com/@FoldedZero"
+    },
+    {
+        "role": "helper",
+        "name": "FJKR",
+        "link": "https://www.youtube.com/@FJKR_real"
+    },
+    {
+        "role": "helper",
+        "name": "CreeperJamie909",
+        "link": "https://www.youtube.com/channel/UCKBYZXSpV9VfQvlidKN2WWg"
     },
     {
         "role": "dev",
