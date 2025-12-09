@@ -6,6 +6,12 @@
   "verifier": "CreeperJamie909",
   "verification": "https://youtu.be/u6nhEakcC9g",
   "percentToQualify": "100",
-  "records": [    
+  "records": [
+      {
+          "user": "Megatron",
+          "link": "https://www.youtube.com/watch?v=x2_CdfjINWE",
+          "hz": "360",
+          "percent": 100
+      }
   ]
 }
