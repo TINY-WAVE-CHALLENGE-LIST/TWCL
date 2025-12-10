@@ -13,17 +13,23 @@
             "hz": "240",
             "percent": 100
         },
-       {
+        {
             "user": "Megatron",
             "link": "https://www.youtube.com/watch?v=BKA7o49bjco",
             "hz": "240",
             "percent": 100
-         },
-       {
+        },
+        {
             "user": "Sadisyourlife",
             "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1448097176193335482",
             "hz": "240",
             "percent": 100
-          }     
+        },
+        {
+            "user": "FoldedZero",
+            "link": "https://youtu.be/m_gtIH-aDZo",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
