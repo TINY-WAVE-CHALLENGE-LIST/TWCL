@@ -36,6 +36,12 @@
             "link": "https://www.youtube.com/watch?v=KS4ZJPJA1qs",
             "hz": "360",
             "percent": 100
+        },
+        {
+            "user": "tomato",
+            "link": "https://cdn.discordapp.com/attachments/1413628930065301616/1448216992459915415/IDONTNOW.mp4?ex=693a74ad&is=6939232d&hm=a8e39e1da164deb832481f9c70c903880650a127c1a47f62ad011e7d78b50f46&",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
