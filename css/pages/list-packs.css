@@ -119,11 +119,3 @@
   align-items: center;
   gap: 1rem;
 }
-
-.page-list-packs .comp {
-   display: flex;
-   flex-direction: column;
-   align-items: center;
-   gap: 2rem;
-   padding-right: 2rem;
-}
