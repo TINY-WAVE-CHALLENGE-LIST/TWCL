@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "240",
     "records": [
+         {
+            "user": "zis76",
+            "link": "https://youtu.be/Aq5WXmQQooo?si=UrLuGvz_amupkcsw",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
