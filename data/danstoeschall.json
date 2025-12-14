@@ -36,6 +36,12 @@
             "link": "https://www.youtube.com/watch?v=x2_CdfjINWE",
             "hz": "360",
             "percent": 100
+        },
+        {
+            "user": "DuckInTheUSA",
+            "link": "https://youtu.be/R1U9oiFbJ5Y",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
