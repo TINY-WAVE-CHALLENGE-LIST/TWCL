@@ -10,14 +10,19 @@
         "link": "https://www.youtube.com/@DuckInTheUSA"
     },
     {
-        "role": "helper",
-        "name": "pixel",
-        "link": "https://www.youtube.com/@pixelfactorial"
+        "role": "admin",
+        "name": "Sadisyourlife",
+        "link": "https://www.youtube.com/@justaguy8255"
+    },
+    {
+        "role": "admin",
+        "name": "CreeperJamie909",
+        "link": "https://www.youtube.com/channel/UCKBYZXSpV9VfQvlidKN2WWg"
     },
     {
         "role": "helper",
-        "name": "Sadisyourlife",
-        "link": "https://www.youtube.com/@justaguy8255"
+        "name": "pixel",
+        "link": "https://www.youtube.com/@pixelfactorial"
     },
     {
         "role": "helper",
@@ -30,13 +35,8 @@
         "link": "https://www.youtube.com/@FJKR_real"
     },
     {
-        "role": "helper",
-        "name": "CreeperJamie909",
-        "link": "https://www.youtube.com/channel/UCKBYZXSpV9VfQvlidKN2WWg"
-    },
-    {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "zis08",
+        "link": "https://youtube.com/@siz08675?si=1qpwrROqHTUbha0d"
     }
 ]
