@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/8WP1or5qFEo?si=cY_ossB89_e3LH74",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Megatron",
+            "link": "https://www.youtube.com/watch?v=r2yCSUpIVM0",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
