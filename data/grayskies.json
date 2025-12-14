@@ -1,0 +1,29 @@
+{
+    "id": 129188464,
+    "name": "Gray Skies",
+    "author": "DuckInTheUSA",
+    "creators": [],
+    "verifier": "finni1505",
+    "verification": "",
+    "percentToQualify": "100",
+    "records": [
+      {
+        "user": "tomato",
+        "link": "Untitledasdasdasd.mov",
+        "hz": "240",
+        "percent": 100
+      },
+        {
+            "user": "Megatron",
+            "link": "https://www.youtube.com/watch?v=x2_CdfjINWE",
+            "hz": "360",
+            "percent": 100
+        },
+      {
+        "user": "zis76",
+        "link": "https://youtu.be/W5zYZ5BjY6k",
+        "hz": "240",
+        "percent": 100
+      }
+    ]
+}
