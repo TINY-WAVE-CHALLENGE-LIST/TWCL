@@ -8,12 +8,6 @@
     "percentToQualify": "100",
     "records": [
         {
-        "user": "DuckInTheUSA",
-            "link": "https://www.youtube.com/watch?v=HQWc624EMXw",
-            "percent": 100,
-            "hz": 240
-        },
-        {
              "user": "pixel",
             "link": "https://youtu.be/4N28yVFO-m4",
             "percent": 100,
