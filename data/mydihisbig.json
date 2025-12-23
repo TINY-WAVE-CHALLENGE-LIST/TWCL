@@ -54,6 +54,12 @@
             "link": "https://youtu.be/F50kd1a5DA4",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "Rusty",
+            "link": "https://www.youtube.com/watch?v=lmxQfB4DvnU",
+            "hz": "360",
+            "percent": 100
         }
     ]
 }
