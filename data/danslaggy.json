@@ -6,6 +6,7 @@
     "verifier": "FoldedZero",
     "verification": "https://youtu.be/AnpPgPI0-8s",
     "percentToQualify": "100",
+    "fps": "20",
     "records": [
     ]
 }
