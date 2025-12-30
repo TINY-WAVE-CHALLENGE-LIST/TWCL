@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/1OQ_siyqtcc",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Maxr",
+            "link": "https://youtu.be/DVQWhWzwuOA?si=df_GzuXseWoYYcmL",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
