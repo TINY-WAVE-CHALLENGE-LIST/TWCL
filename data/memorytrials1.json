@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/dNsU2pV3XuQ",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "tomato",
+            "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1454293383379156992",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
