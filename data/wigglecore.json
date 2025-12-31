@@ -48,6 +48,13 @@
             "link": "https://www.youtube.com/watch?v=fUA0KAibNTU",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "Nuridint3b",
+            "link": "https://www.youtube.com/watch?v=NwMg94fD5j4",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
