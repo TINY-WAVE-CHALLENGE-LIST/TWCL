@@ -7,5 +7,11 @@
     "verification": "https://discord.com/channels/1413625809112924307/1413628716986269717/1457128352409190502",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Rusty",
+            "link": "https://www.youtube.com/watch?v=ojVElO6ouoo",
+            "hz": "360",
+            "percent": 100
+        }
     ]
 }
