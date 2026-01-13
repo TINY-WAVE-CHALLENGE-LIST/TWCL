@@ -40,8 +40,9 @@
         {
             "user": "Nuridint3b",
             "link": "https://youtu.be/580h90hJzeA?si=vXfHUOcaXrWbq3rP",
-            "hz": "240",
-            "percent": 100
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
