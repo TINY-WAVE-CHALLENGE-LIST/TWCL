@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=UaqR_y1DX9c",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Nuridint3b",
+            "link": "https://youtu.be/vCAeQoYcetA?si=2qu04t6p6SvZ4zTx",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
+        }
     ]
 }
