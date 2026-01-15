@@ -105,6 +105,10 @@ export default {
           ></iframe>
           <ul class="stats">
             <li>
+                <div class="type-title-sm">Points when completed</div>
+                <p>{{ packs.points }}</p>
+            </li>
+            <li>
               <div class="type-title-sm">ID</div>
               <p>{{ selectedLevel.id }}</p>
             </li>
