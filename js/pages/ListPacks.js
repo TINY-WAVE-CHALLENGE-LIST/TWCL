@@ -106,7 +106,7 @@ export default {
           <ul class="stats">
             <li>
               <div class="type-title-sm">Points when completed</div>
-              <p>{{ selectedPack.points }}</p>
+              <p>{{ selectedPack.points || 'N/A' }}</p>
             </li>
             <li>
               <div class="type-title-sm">ID</div>
