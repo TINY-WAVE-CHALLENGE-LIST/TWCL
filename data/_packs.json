@@ -2,7 +2,7 @@
   {
     "name": "Ship Pack I",
     "color": "#f542e3",
-    "points": 227,
+    "points": 200,
     "levels": [
       126778487,
       126803332,
@@ -14,7 +14,7 @@
   {
     "name": "Ship Pack II",
     "color": "#942f8a",
-    "points": 422,
+    "points": 500,
     "levels": [
       129106000,
       127269488,
@@ -26,7 +26,7 @@
   {
     "name": "Wave Pack",
     "color": "#2f4094",
-    "points": 325,
+    "points": 350,
     "levels": [
       128337500,
       129139622,
@@ -38,7 +38,7 @@
   {
     "name": "Cube Pack",
     "color": "#62e835",
-    "points": 325,
+    "points": 250,
     "levels": [
       128008427,
       128577829,
@@ -50,7 +50,7 @@
   {
     "name": "Robot Pack",
     "color": "#d6d4d0",
-    "points": 325,
+    "points": 650,
     "levels": [
       128936112,
       129741314,
@@ -62,7 +62,7 @@
   {
     "name": "Swing Pack",
     "color": "#cc921d",
-    "points": 325,
+    "points": 300,
     "levels": [
       129210576,
       128802261,
@@ -72,7 +72,7 @@
   {
     "name": "Balls Pack",
     "color": "#e39349",
-    "points": 325,
+    "points": 550,
     "levels": [
       129495075,
       129491905,
@@ -84,7 +84,7 @@
   {
     "name": "Dual Pack",
     "color": "#bf7d00",
-    "points": 325,
+    "points": 400,
     "levels": [
       129492719,
       129496081,
@@ -107,7 +107,7 @@
   {
     "name": "Consistency Pack II",
     "color": "#0d5941",
-    "points": 293,
+    "points": 350,
     "levels": [
       125653324,
       127821706,
@@ -119,7 +119,7 @@
   {
     "name": "2 Player Pack",
     "color": "#d9261c",
-    "points": 325,
+    "points": 700,
     "levels": [
       130325375,
       130344452,
@@ -130,7 +130,7 @@
   {
     "name": "Memory Trials",
     "color": "#8d1cd9",
-    "points": 325,
+    "points": 300,
     "levels": [
       129946905,
       130166924,
@@ -141,7 +141,7 @@
   {
     "name": "Hank Pack",
     "color": "#b854b1",
-    "points": 325,
+    "points": 350,
     "levels": [
       128337500,
       128008427,
@@ -151,7 +151,7 @@
   {
     "name": "Anatomy Pack",
     "color": "#e0bf80",
-    "points": 325,
+    "points": 500,
     "levels": [
       129490830,
       129210576,
@@ -164,7 +164,7 @@
   {
     "name": "Hazbin Hotel",
     "color": "#3f688f",
-    "points": 325,
+    "points": 500,
     "levels": [
      129165882,
      129167852,
@@ -177,7 +177,7 @@
   {
     "name": "Hazbin Resort",
     "color": "#3f8b8f",
-    "points": 325,
+    "points": 750,
     "levels": [
       129485392,
       129276458,
@@ -189,7 +189,7 @@
   {
     "name": "Impossible Endings Pack",
     "color": "#8f703f",
-    "points": 325,
+    "points": 650,
     "levels": [
       129485392,
       128187178,
@@ -200,7 +200,7 @@
   {
     "name": "Finni Pack",
     "color": "#0c29e8",
-    "points": 325,
+    "points": 450,
     "levels": [
       128085719,
       125653324,
@@ -211,7 +211,7 @@
   {
     "name": "Decoration Pack I",
     "color": "#c30ce8",
-    "points": 325,
+    "points": 600,
     "levels": [
         129283138,
         129165882,
@@ -224,7 +224,7 @@
   {
     "name": "Decoration Pack II",
     "color": "#7C1E96",
-    "points": 325,
+    "points": 1000,
     "levels": [
       129233199,
       128936112,
