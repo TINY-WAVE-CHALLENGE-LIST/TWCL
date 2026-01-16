@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "Any no CBF",
     "records": [
+        {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1460977937896702067",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
