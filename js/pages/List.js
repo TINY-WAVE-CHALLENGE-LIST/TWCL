@@ -104,16 +104,16 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        You can copy one level on the list
+                        Clicks Sound or hand-cam are required
                     </p>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 1000fps yes its crazy)
+                        Alternating Is allowed
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Levels must be beaten on 60, 120, 144, 180, or 240 or higher (Unless you use your monitor native refresh rate)
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Levels that require you to use a weird fps (ex: Katamari) are allowed
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
@@ -122,13 +122,16 @@ export default {
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Obvious secret ways are not allowed
+                    </p>
+                    <p>
+                        You need to use Cheat Indicator (Unless your on a vanilla cliet)
                     </p>
                     <p>
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                    on invisible levels do not use show hitbox on death
+                        You need to use Cheat Indicator
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we dont accept records after it falls off
