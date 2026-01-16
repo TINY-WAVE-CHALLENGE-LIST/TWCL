@@ -136,6 +136,9 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we dont accept records after it falls off
                     </p>
+                    <p>
+                        Noclip accuracy is not allowed, even if you didn't die in it at all.
+                    </p>
                 </div>
             </div>
         </main>
