@@ -8,5 +8,24 @@
     "percentToQualify": "100",
     "fps": "Any",
     "records": [
+        {
+            "user": "Rusty",
+            "link": "https://www.youtube.com/watch?v=cn4EQICpltA",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Nuridint3b",
+            "link": "https://youtu.be/oWyuxA8QSQI?si=eNB0EEj9A6J9Zdlx",
+            "hz": "60F",
+            "percent": 100,
+            "mobile": "true"
+        },
+        {
+            "user": "Tomato",
+            "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1462565029416009884",
+            "hz": "60",
+            "percent": 100
+        }
     ]
 }
