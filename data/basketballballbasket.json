@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "Any",
     "records": [
+        {
+            "user": "Rusty",
+            "link": "https://www.youtube.com/watch?v=cn4EQICpltA",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
