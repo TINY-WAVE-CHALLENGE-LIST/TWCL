@@ -50,6 +50,13 @@
             "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1461831507827232839",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "Bandit64",
+            "Link": "https://m.youtube.com/watch?v=THbPkJl_9DM&list=PLPwjywJKxVOTygheOA-1GU7fGpTy0MdZY&index=3&pp=iAQB",
+            "hz": "60",
+            "percent": 100,
+	        "mobile": "true"
         }
     ]
 }
