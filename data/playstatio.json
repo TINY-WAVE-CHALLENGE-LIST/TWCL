@@ -32,10 +32,10 @@
             "percent": 100
         },
         {
-            "user": "Bananas",
-            "Link": "https://medal.tv/games/geometry-dash/clips/lWDLAyrXl7srZKOzJ?invite=cr-MSxudEksMjMzODMwODYy&v=16",
-            "hz": "240",
-            "percent": 100,
-        }
+        "user": "Bananas",
+        "link": "https://medal.tv/games/geometry-dash/clips/lWDLAyrXl7srZKOzJ?invite=cr-MSxudEksMjMzODMwODYy&v=16",
+        "hz": "240",
+        "percent": 100
+      }
     ]
 }
