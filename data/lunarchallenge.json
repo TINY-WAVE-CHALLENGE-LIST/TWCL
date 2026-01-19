@@ -27,10 +27,10 @@
             "mobile": "true"
         },
         {
-            "user": "Fentanyl",
-            "Link": "https://medal.tv/games/geometry-dash/clips/lWeuTP7jL_iwtGRC3?invite=cr-MSxvR2ksMTkwNjk4ODYw&v=14",
-            "hz": "240",
-            "percent": 100,
-        }
+        "user": "Fentanyl",
+        "link": "https://medal.tv/games/geometry-dash/clips/lWeuTP7jL_iwtGRC3?invite=cr-MSxvR2ksMTkwNjk4ODYw&v=14",
+        "hz": "240",
+        "percent": 100
+      }
     ]
 }
