@@ -7,5 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=vD0fXSHj56Q",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Sadisyourlife",
+            "link": "https://cdn.discordapp.com/attachments/1413628930065301616/1463197633689681931/please_please_speed.mp4?ex=6970f47c&is=696fa2fc&hm=12aa1a9ae9524d684e2ef6369b64124c40e8d6aa3d878fc0884f2c67867a7650&",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
