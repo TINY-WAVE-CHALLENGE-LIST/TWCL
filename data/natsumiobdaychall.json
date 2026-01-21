@@ -1,9 +1,9 @@
 {
     "id": 130429784,
     "name": "Natsumio bday Chall",
-    "author": "Zenos Sins",
+    "author": "Natsumio BDay Chall",
     "creators": [],
-    "verifier": "Zenos Sins",
+    "verifier": "Natsumio BDay Chall",
     "verification": "https://www.youtube.com/watch?v=fe-VH4PGXvg",
     "percentToQualify": "100",
     "records": [
@@ -11,12 +11,6 @@
             "user": "zis76",
             "link": "https://medal.tv/games/geometry-dash/clips/lOWQJbKc4cVk0JQ6x?invite=cr-MSwyM2ksMTY4ODkwOTU4&v=19",
             "hz": "240",
-            "percent": 100
-        },
-        {
-            "user": "Rusty",
-            "link": "https://www.youtube.com/watch?v=t-YOOxdJV84",
-            "hz": "60",
             "percent": 100
         }
     ]
