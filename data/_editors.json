@@ -20,7 +20,7 @@
         "link": "https://youtube.com/@rusty_gd?si=ftntwvZEkLzmiikI"
     },
     {
-        "role": "helper",
+        "role": "admin",
         "name": "FoldedZero",
         "link": "https://www.youtube.com/@FoldedZero"
     },
@@ -28,5 +28,15 @@
         "role": "helper",
         "name": "tFluffy",
         "link": "https://www.youtube.com/@tFluffy"
+    },
+    {
+        "role": "helper",
+        "name": "Maxr",
+        "link": "https://youtube.com/@gdmaxr"
+    },
+    {
+        "role": "helper",
+        "name": "FentGD",
+        "link": "https://www.youtube.com/@FentGD"
     }
 ]
