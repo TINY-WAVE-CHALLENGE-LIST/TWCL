@@ -42,6 +42,12 @@
             "link": "https://www.youtube.com/watch?v=cn4EQICpltA",
             "hz": "CBF",
             "percent": 100
-        }
+        },
+        {
+            "user": "aelz",
+            "link": "https://www.youtube.com/live/4QU4yfnmqYw",
+            "hz": "240",
+            "percent": 100
+      }
     ]
 }
