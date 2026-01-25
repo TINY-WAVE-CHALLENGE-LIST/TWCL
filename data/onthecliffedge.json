@@ -18,6 +18,13 @@
             "link": "https://medal.tv/de/games/geometry-dash/clips/lQ0pmNzsnzmm3-hzV?invite=cr-MSxkbjgsMzY5MjUzOTQw&v=30",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "Nuridint3b",
+            "link": "https://www.youtube.com/watch?v=3-zYqGXuAyM",
+            "hz": "60",
+            "percent": 100,
+	        "mobile": "true"
         }
     ]
 }
