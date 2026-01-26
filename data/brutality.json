@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "version": "2.2",
     "records": [
+        {
+            "user": "Rusty",
+            "link": "https://www.youtube.com/watch?v=YtwKpHqDzIg",
+            "hz": "360",
+            "percent": 100
+        }
     ]
 }
