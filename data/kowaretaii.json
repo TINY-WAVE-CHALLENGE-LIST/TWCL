@@ -7,18 +7,24 @@
     "verification": "https://youtu.be/zhEE9q03t7A",
     "percentToQualify": "100",
     "records": [
-				{
+        {
             "user": "zis76",
             "link": "https://www.youtube.com/watch?v=d7e1mnoipDo",
             "hz": "240",
             "percent": 100
-				},
-                {
+        },
+        {
             "user": "Shluppy Puppy Gabpreme",
             "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1451705257720807514",
             "hz": "360",
             "percent": 100
-				}
+        },
+        {
+            "user": "tFluffy",
+            "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1465758894646231110",
+            "hz": "60",
+            "percent": 100
+        }
                 
     ]
 }
