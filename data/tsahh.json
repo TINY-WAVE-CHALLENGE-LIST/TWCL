@@ -57,10 +57,16 @@
             "mobile": "true"
         },
         {
-        "user": "aelz",
-        "link": "https://www.youtube.com/live/c1ajgzqMqy4",
-        "hz": "240",
-        "percent": 100
-      }
+            "user": "aelz",
+            "link": "https://www.youtube.com/live/c1ajgzqMqy4",
+            "hz": "240",
+            "percent": 100
+      },
+    {
+            "user": "Bananas",
+            "link": "https://medal.tv/games/geometry-dash/clips/m01hYqgJQgfQkgP8-?invite=cr-MSw1Y0osMjMzODMwODYy&v=12",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
