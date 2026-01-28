@@ -43,7 +43,13 @@
             "link": "https://www.youtube.com/live/Lps_gw0gIuI?si=P6CJIfIamTS9NA5z",
             "hz": "240",
             "percent": 100
-      }
+      },
+        {
+            "user": "Pillow112",
+            "link": "https://www.youtube.com/watch?v=Wkc51au1waY",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
 
