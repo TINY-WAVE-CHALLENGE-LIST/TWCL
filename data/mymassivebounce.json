@@ -58,11 +58,17 @@
             "percent": 100
         },
         {
-        "user": "aelz",
-        "link": "https://www.youtube.com/live/c1ajgzqMqy4",
-        "hz": "240",
-        "percent": 100
-      }
+            "user": "aelz",
+            "link": "https://www.youtube.com/live/c1ajgzqMqy4",
+            "hz": "240",
+            "percent": 100
+      },
+        {
+            "user": "fjkr",
+            "link": "https://youtu.be/-Y5XSqK_6Kc",
+            "percent": 100,
+            "hz": "CBF"
+            }
     ]
 }
 
