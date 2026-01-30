@@ -6,5 +6,7 @@
     "verifier": "Pillow112",
     "verification": "https://www.youtube.com/watch?v=zrOEF_8Jb7Q",
     "percentToQualify": "100",
-    "records": []
+    "fps": "Any",
+    "records": [
+    ]
 }
