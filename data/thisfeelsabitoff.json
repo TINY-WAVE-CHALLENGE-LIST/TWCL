@@ -12,6 +12,13 @@
             "link": "https://www.youtube.com/watch?v=ZXysdh9hCBU",
             "hz": "CBF",
             "percent": 100
+        },
+        {
+            "user": "Nuridint3b",
+            "link": "https://youtu.be/qft44CGU-YU?si=kc8B_ov5IBNu8EOj",
+            "hz": "CBF",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
