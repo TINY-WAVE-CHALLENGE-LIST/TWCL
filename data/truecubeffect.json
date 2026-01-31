@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "fps": "Any",
     "records": [
+        {
+            "user": "Nuridint3b",
+            "link": "https://youtu.be/4ecVr7WHSKE?si=zHHtWq1y8-kqXD6m",
+            "hz": "CBF",
+            "percent": 100,
+            "mobile": "true"
+        }
     ]
 }
