@@ -91,7 +91,7 @@
     text-align: end;
 }
 .page-list .meta-container .og a:hover {
-    gap: 1rem;
+    gap: 0.5rem;
 }
 .page-list .meta-container .gg a:hover,
 .page-list .meta-container .oo a:hover,
