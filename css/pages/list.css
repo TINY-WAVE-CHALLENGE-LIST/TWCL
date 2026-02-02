@@ -90,12 +90,8 @@
 .page-list .level-container .level .records .hz {
     text-align: end;
 }
-.page-list .meta-container .og a:hover 
-.page-list .meta-container .gg a:hover {
-    padding: 0.5rem;
-}
-.page-list .meta-container .oo a:hover {
-    padding: 0.5rem;
+.page-list .meta-container .og a:hover {
+    gap: 0.5rem;
 }
 .page-list .level-container .level .records a:hover {
     text-decoration: underline;
