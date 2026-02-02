@@ -93,8 +93,7 @@
 .page-list .meta-container .og a:hover {
     display: flex;
     flex-direction: column;
-    gap: 2rem;
-    max-width: 48rem;
+    gap: 6rem;
 }
 .page-list .level-container .level .records a:hover {
     text-decoration: underline;
