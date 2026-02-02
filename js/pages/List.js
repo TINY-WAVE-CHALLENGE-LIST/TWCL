@@ -182,6 +182,18 @@ export default {
               <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a>
             </p>
           </div>
+          <div class="gg">
+            <p class="type-label-md">
+              Code for packs made by
+              <a href="https://github.com/snailmusic" target="_blank">Snail</a>
+            </p>
+          </div>
+          <div class="oo">
+            <p class="type-label-md">
+              Code for search bar made by
+              <a href="https://youtube.com/@aelzfr?si=cxdgt4r3wp4S4Dyn" target="_blank">Aelz</a>
+            </p>
+          </div>
           <template v-if="editors">
             <h3>List Editors</h3>
             <ol class="editors">
