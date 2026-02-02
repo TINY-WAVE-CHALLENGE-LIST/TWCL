@@ -181,12 +181,10 @@ export default {
               Website layout made by
               <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a>
             </p>
-            <p>
             <p class="type-label-md">
               Code for packs made by
               <a href="https://github.com/snailmusic" target="_blank">Snail</a>
             </p>
-            <p>
             <p class="type-label-md">
               Code for search bar made by
               <a href="https://youtube.com/@aelzfr?si=cxdgt4r3wp4S4Dyn" target="_blank">Aelz</a>
