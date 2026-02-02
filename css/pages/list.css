@@ -91,7 +91,10 @@
     text-align: end;
 }
 .page-list .meta-container .og a:hover {
-    height: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    max-width: 48rem;
 }
 .page-list .level-container .level .records a:hover {
     text-decoration: underline;
