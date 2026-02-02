@@ -1,11 +1,12 @@
 {
-    "id": 131349832,
+    "id": 132426809,
     "name": "Vera Lynn",
     "author": "Probro675",
     "creators": "",
     "verifier": "Probro675",
     "verification": "https://youtu.be/9NelJXyqsCE?si=x99dHraB5c6CgVhE",
     "percentToQualify": "100",
+    "fps": "60",
     "records": [
         {
             "user": "MMB9595",
@@ -16,7 +17,7 @@
         {
             "user": "tFluffy",
             "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1467024200937246825",
-            "hz": "CBF",
+            "hz": "60",
             "percent": 100
         }
     ]
