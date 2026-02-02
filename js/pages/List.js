@@ -233,5 +233,5 @@ export default {
             </div>
         </main>
     `,
-   },
-};
+},
+
