@@ -223,8 +223,7 @@ export default {
                     <p>
                         Noclip accuracy is not allowed, even if you didn't die in it at all.
                     </p>
-                </div>
-            <div class="og">
+                    <div class="og">
             <p class="type-label-md">
               Website layout made by
               <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a>
@@ -242,7 +241,8 @@ export default {
               <a href="https://youtube.com/@aelzfr?si=cxdgt4r3wp4S4Dyn" target="_blank">Aelz</a>
             </p>
           </div>
-        </div>
+                </div>
+          </div>
       </main>
     `,
 };
