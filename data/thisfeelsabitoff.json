@@ -16,9 +16,15 @@
         {
             "user": "Nuridint3b",
             "link": "https://youtu.be/qft44CGU-YU?si=kc8B_ov5IBNu8EOj",
-            "hz": "CBF",
+            "hz": "60",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "zis76"
+            "link": "https://medal.tv/games/geometry-dash/clips/m357Q0XwA0UH_xNhw?invite=cr-MSxaWnIsMTY4ODkwOTU4",
+            "hz": "60",
+            "percent": 100
         }
     ]
 }
