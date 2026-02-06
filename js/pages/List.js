@@ -200,6 +200,9 @@ export default {
                         Levels that require you to use a weird fps (ex: Katamari) are allowed
                     </p>
                     <p>
+                        The maximum CPS for your level cannot exceed 9 or higher
+                    </p>
+                    <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
                     </p>
                     <p>
