@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "Any",
     "records": [
+        {
+            "user": "FoldedZero",
+            "link": "https://www.youtube.com/watch?v=m5eahLB_76s",
+            "hz": "CBS",
+            "percent": 100
+        }
     ]
 }
