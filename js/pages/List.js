@@ -218,9 +218,6 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        You need to use Cheat Indicator
-                    </p>
-                    <p>
                         Once a level falls onto the Legacy List, we dont accept records after it falls off
                     </p>
                     <p>
