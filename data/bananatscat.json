@@ -6,6 +6,7 @@
     "verifier": "Bananas",
     "verification": "later",
     "percentToQualify": "100",
+    "fps": "60",
     "records": [
     ]
 }
