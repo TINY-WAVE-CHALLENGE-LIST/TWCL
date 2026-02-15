@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "Any",
     "records": [
+         {
+            "user": "FJKR",
+            "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1472503044074770553",
+            "percent": 100,
+            "hz": "240"
+        }
     ]
 }
