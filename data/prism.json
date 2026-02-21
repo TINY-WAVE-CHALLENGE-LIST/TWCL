@@ -16,8 +16,8 @@
             {
                 "user": "Silk",
                 "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1474568893920968835",
-                "hz": "CBF",
-                "Percent": 100
+                "percent": 100,
+                "hz": "CBF"
         }
     ]
 }
