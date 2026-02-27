@@ -32,10 +32,17 @@
             "percent": 100
         },
         {
-        "user": "Darkcity8",
-        "link": "https://files.catbox.moe/mvy1f5.mp4",
-        "hz": "144",
-        "percent": 100
-      }
+            "user": "Darkcity8",
+            "link": "https://files.catbox.moe/mvy1f5.mp4",
+            "hz": "144",
+            "percent": 100
+      },
+        {
+            "user": "Nuridint3b",
+            "link": "https://youtu.be/F9ye3paiEtA?si=Ui6EcYroeP03pG7P",
+            "hz": "CBS",
+            "percent": 100,
+            "mobile": "true"
+        }
     ]
 }
