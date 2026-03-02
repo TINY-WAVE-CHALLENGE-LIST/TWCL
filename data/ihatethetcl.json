@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "120",
     "records": [
+        {
+            "user": "Sadisyourlife",
+            "link": "https://discord.com/channels/1413625809112924307/1413628930065301616/1477805711479275540",
+            "hz": "120",
+            "percent": 100
+        }
     ]
 }
